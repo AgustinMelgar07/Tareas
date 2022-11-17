@@ -1,0 +1,2 @@
+Cliente{Nombre: dsfsd, DNI: 21312, Activos: [Cuenta: {Nombre: sdfsdf, Monto: 123123.0, Tipo: sdfsdf}]}
+Cliente{Nombre: dsf, DNI: 123, Activos: [Cuenta: {Nombre: sdf, Monto: 13.0, Tipo: sdf}]}
